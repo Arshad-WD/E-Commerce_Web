@@ -1,0 +1,11 @@
+.navbar-nav {
+  align-items:center; 
+  background-color: whitesmoke;
+  display: flex;
+  list-style: none;
+}
+
+.navbar-collapse {
+    flex-grow: top ;
+    
+}
